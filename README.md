@@ -7,8 +7,6 @@
 <sup>2</sup>Department of Informatics and Telecommunications, National and Kapodistrian University of Athens, Greece<br>
 <sup>3</sup>Archimedes, Athena Research Center, Greece<br>
 
-*Authors listed in alphabetical order - equal con­tri­bu­tion*
-
 [![Paper](https://img.shields.io/badge/NeurIPS-2025-red?logo=book&logoColor=white)](https://papers.nips.cc/paper_files/paper/2025/hash/yourpaperid-Abstract.html)
 [![License](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 
