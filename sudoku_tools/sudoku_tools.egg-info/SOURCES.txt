@@ -1,0 +1,9 @@
+main.c
+pyproject.toml
+setup.py
+src/jcz.c
+src/sudoku_path.c
+sudoku_tools.egg-info/PKG-INFO
+sudoku_tools.egg-info/SOURCES.txt
+sudoku_tools.egg-info/dependency_links.txt
+sudoku_tools.egg-info/top_level.txt

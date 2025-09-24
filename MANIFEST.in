@@ -1,0 +1,11 @@
+# Include README and LICENSE
+include README.md
+include LICENSE
+
+# Include all C source files for sudoku_tools and sat_tools extensions
+recursive-include sudoku_tools *.c *.h
+recursive-include sat_tools *.c *.h
+
+# Include the pyproject.toml and setup.py files explicitly
+include pyproject.toml
+include setup.py

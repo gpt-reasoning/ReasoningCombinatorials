@@ -1,0 +1,6 @@
+gdown
+pandas
+scipy
+matplotlib
+seaborn
+sudoku_tools
