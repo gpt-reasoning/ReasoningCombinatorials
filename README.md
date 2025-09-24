@@ -3,8 +3,8 @@
 
 **Panagiotis Giannoulis<sup>1</sup>, Yorgos Pantis<sup>2,3</sup>, Christos Tzamos<sup>2,3</sup>**
 
-<sup>1</sup>Independent Researcher, Germany<br>
-<sup>2</sup>Department of Informatics and Telecommunications, National and Kapodistrian University of Athens, Greece<br>
+<sup>1</sup>National Technical University of Athens, Greece<br>
+<sup>2</sup>National and Kapodistrian University of Athens, Greece<br>
 <sup>3</sup>Archimedes, Athena Research Center, Greece<br>
 
 [![Paper](https://img.shields.io/badge/NeurIPS-2025-red?logo=book&logoColor=white)](https://papers.nips.cc/paper_files/paper/2025/hash/yourpaperid-Abstract.html)
