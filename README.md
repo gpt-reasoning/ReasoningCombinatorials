@@ -19,7 +19,7 @@ Despite their proficiency in various language tasks, Large Language Models (LLMs
 If you use this work, please cite it as follows:
 
 ```bibtex
-@inproceedings{giannouliscombinatorials2025, 
+@inproceedings{giannoulis2025teaching, 
   title={Teaching Transformers to Solve Combinatorial Problems through Efficient Trial & Error}, 
   author={Giannoulis, Panagiotis and Pantis, Yorgos and Tzamos, Christos}, 
   booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems}, 
