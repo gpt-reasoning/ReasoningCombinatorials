@@ -7,13 +7,13 @@
 <sup>2</sup>National and Kapodistrian University of Athens, Greece<br>
 <sup>3</sup>Archimedes, Athena Research Center, Greece<br>
 
-[![Paper](https://img.shields.io/badge/NeurIPS-2025-red?logo=book&logoColor=white)](https://papers.nips.cc/paper_files/paper/2025/hash/yourpaperid-Abstract.html)
+[![Paper](https://img.shields.io/badge/NeurIPS-2025-red?logo=book&logoColor=white)](https://neurips.cc/virtual/2025/loc/san-diego/poster/118478)
 [![License](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 
 </div>
 
 ## Abstract
-Despite their proficiency in various language tasks, Large Language Models (LLMs) struggle with combinatorial problems like Satisfiability, Traveling Salesman Problem, or even basic arithmetic. We address this gap through a novel approach for solving problems in the class NP. We focus on the paradigmatic task of Sudoku and achieve state-of-the-art accuracy (99%) compared to prior neuro-symbolic approaches. Unlike prior work that used custom architectures, our method employs a vanilla decoder-only Transformer (GPT-2) without external tools or function calling. Our method integrates imitation learning of simple Sudoku rules with an explicit Depth-First Search (DFS) exploration strategy involving informed guessing and backtracking. Moving beyond imitation learning, we seek to minimize the number of guesses until reaching a solution. We provide a rigorous analysis of this setup, formalizing its connection to a contextual variant of *Min–Sum Set Cover*, a well-studied problem in algorithms and stochastic optimization.
+Despite their proficiency in various language tasks, Large Language Models (LLMs) struggle with combinatorial problems like Satisfiability, Traveling Salesman Problem, or even basic arithmetic. We address this gap through a novel trial & error approach for solving problems in the class NP, where candidate solutions are iteratively generated and efficiently validated using verifiers. We focus on the paradigmatic task of Sudoku and achieve state-of-the-art accuracy (99%) compared to prior neuro-symbolic approaches. Unlike prior work that used custom architectures, our method employs a vanilla decoder-only Transformer (GPT-2) without external tools or function calling. Our method integrates imitation learning of simple Sudoku rules with an explicit Depth-First Search (DFS) exploration strategy involving informed guessing and backtracking. Moving beyond imitation learning, we seek to minimize the number of guesses until reaching a solution. This is achieved using depth-1 guessing, showing empirically that almost all Sudoku can be solved using the puzzle's rules with at most one guess. We provide a rigorous analysis of this setup formalizing its connection to a contextual variant of *Min–Sum Set Cover*, a well-studied problem in algorithms and stochastic optimization.
 
 ## Citation
 If you use this work, please cite it as follows:
